@@ -9,7 +9,7 @@ Install `cookiecutter` command line: `pip install cookiecutter`
 
 Usage
 -----
-Generate a new Cookiecutter template layout: `cookiecutter gh:ovnicraft/Odookickstart`
+Generate a new Cookiecutter template layout: `cookiecutter gh:MalekShabab/Odookickstart`
 
 License
 -------
